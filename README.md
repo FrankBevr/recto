@@ -21,9 +21,9 @@
 
 ### Markdown
 
-- # Hastag says which order, heading 1
-- # Hashtag says which order, heading 2
-- # Hashtag says which order, heading 3
+- `# Hastag says which order, heading 1`
+- `# Hashtag says which order, heading 2`
+- `# Hashtag says which order, heading 3`
 - Bulletpoint
 - **Bold**
 - _Italic_
@@ -31,3 +31,5 @@
 - thats a image
 
 ![Thats an Cryptopunk](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/K5B2ZSDJCBB43O4VVTP73PV4RA.png)
+
+### HTML
