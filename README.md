@@ -33,3 +33,24 @@
 ![Thats an Cryptopunk](https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/K5B2ZSDJCBB43O4VVTP73PV4RA.png)
 
 ### HTML
+
+- HTML everything is wrapped in a html Tag
+- Every html has 2 parts.
+- Part a is the head
+- Part b is the body
+- All of the content is in body
+- To display stuff nicely we use h1, p, h2, strong, em, ...
+
+### Deployment
+
+- There is a tool that calls surge
+- It allows you to upload you website with one command
+- [Thats the surge Website - Click me](https://surge.sh/)
+
+### Diverse
+
+- [ViteJS](https://vitejs.dev/)
+- [Vite Alternative - Just use VS Code](https://code.visualstudio.com/)
+- [GH - Github Tool to interact with github.com](https://cli.github.com/)
+- [Markdown Tutorial](https://www.markdowntutorial.com/lesson/1)
+- [Surge - Easy Deployment](https://surge.sh/)
